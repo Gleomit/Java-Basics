@@ -1,0 +1,18 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\*******>cd C:\
+
+C:\>D:
+
+D:\>cd java projects\Intro-Java-Homework\src
+
+D:\java projects\Intro-Java-Homework\src>set path=C:\Program Files\Java\jdk1.8.0
+_20\bin
+
+D:\java projects\Intro-Java-Homework\src>javac SumTwoNumbers.java
+
+D:\java projects\Intro-Java-Homework\src>java SumTwoNumbers
+a: 100
+b: 59
+result = 159
